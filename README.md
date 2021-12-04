@@ -1,5 +1,5 @@
 # Kotlin Multiplatform Mobile Sample
-
+Copied from kmm-basic-sample [https://github.com/Kotlin/kmm-basic-sample].
 This is a **Kotlin Multiplatform Mobile (KMM) Project**. It includes iOS and Android applications with a native UI and a module with code shared on iOS and Android.
 
 ## Features
@@ -7,6 +7,10 @@ This is a **Kotlin Multiplatform Mobile (KMM) Project**. It includes iOS and And
 This sample demonstrates basic KMM features:
 * Using platform-specific APIs with the expect/actual mechanism (see `Platform.kt`)
 * Tests for Shared Module (see `CalculatorTest.kt`, `iosTest.kt`, `androidTest.kt`)
+
+#### Folders
+* starter - skeleton project
+* final - completed project
 
 ## How to use
 
